@@ -45,6 +45,7 @@ body {
 main {
   max-width: 640px;
   margin-top: 40px;
+  flex: 1;
 }
 
 .home-page main,
